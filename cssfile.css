@@ -13,7 +13,8 @@ body{
 	margin:0;
 	padding:40px 0px 0px 10px;
 	text-align:left;
-	background:linear-gradient(to right,#ff00ff 1% ,#ff008c,#ff0073 ,#ff0066 ,red );
+/* 	background:linear-gradient(to right,#ff00ff 1% ,#ff008c,#ff0073 ,#ff0066 ,red ); */
+	linear-gradient(to right,#3928d7,#f00f31);
 	color:White;
 	font-family:'Aclonica';
 	border:0;
@@ -93,7 +94,8 @@ form.example button:hover {
 	margin:0;
 	padding:40px 0px 40px 10px;
 	text-align:center;
-	background:linear-gradient(to right,#ff00ff 1% ,#ff008c,#ff0073 ,#ff0066 ,red );
+/* 	background:linear-gradient(to right,#ff00ff 1% ,#ff008c,#ff0073 ,#ff0066 ,red ); */
+	linear-gradient(to right,#3928d7,#f00f31);
 	color:White;
 	font-family:'Aclonica';
 	border:0;	
